@@ -8,37 +8,37 @@ ie: the things that needs ssdt patch are working with whatevergreen kext and int
 
 i have used rehabman's clover fork. it is outdated but works fine. all kexts are in /e/c/k/other folder, installing them to s/l/e or l/e is not required.  
 
-Sistem Özellikleri (specs) :  
-İşlemci: intel core i5 5200u broadwell  
-Ekran Kartı : intel hd5500 + nvidia 940m  
-Ekran: 1366*768 lcd  
-Ram: 12 GB (8+4) 1600Mhz  
-Ses: Realtek Alc233  
-ssd1: windows 10, ssd2: mojave  
-Ethernet: Realtek RTL8168/8111 PCI-E Gigabit  
-Wifi: azurewave aw-ce123h (14e4:43b1) wifi+bt card (replaced, the old mediatek card is sucks)  
-  
-Çalışanlar(working things):   
-Grafik hd5500 igpu,  
-Realtek alc233 ses,  
----dahili hoparlör ve mikrofon çalışıyor, kulaklık çıkışında statik gürültü/cızırtı var.  
-Hdmi görüntü,  
-Hdmi ses,  
-Ethernet,  
-Wifi,  
-Bluetooth,  
-Klavye ve fn tuşları,  
-Focaltech touchpad,  
-Ekran parlaklık ayarı,  
-Kamera,  
-Ac adaptör,  
-Pil yönetimi,  
-App store,  
+System Properties (specs):
+Processor: intel core i5 5200u broadwell
+Display Card: intel hd5500 + nvidia 940m
+Display: 1366 * 768 lcd
+Ram: 12 GB (8 + 4) 1600Mhz
+Sound: Realtek Alc233
+ssd1: windows 10, ssd2: mojave
+Ethernet: Realtek RTL8168 / 8111 PCI-E Gigabit
+Wifi: AzureWave AW-CE123H (14E4: 43B1) WIFI + BT card (replaced, the old mediatek card is sucks)
+
+Working things:
+Graphics HD5500 IGPU  
+Realtek alc233 sound  
+--- Built-in speaker and microphone is working, there is static noise / squeal at headphone output  
+Hdmi image  
+HDMI audio  
+Ethernet  
+Wifi  
+Bluetooth  
+Keyboard and fn keys  
+Focaltech touchpad  
+Display brightness adjustment  
+Camera  
+Ac adapter  
+Battery management  
+App store  
 iCloud, Facetime, iMessege, iTunes  
-  
-Çalışmayanlar(not working):  
-Nvidia 940M (devre dışı-disabled)  
-Realtek usb2.0 crw kart okuyucu  
+
+Non-working (not working):  
+Nvidia 940M (disabled)  
+Realtek usb2.0 crw card reader  
  
  
 sources (google it):  
