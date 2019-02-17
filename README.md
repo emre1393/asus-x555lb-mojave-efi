@@ -8,17 +8,17 @@ ie: the things that needs ssdt patch are working with whatevergreen kext and int
 
 i have used rehabman's clover fork. it is outdated but works fine. all kexts are in /e/c/k/other folder, installing them to s/l/e or l/e is not required.  
 
-System Properties (specs):
-Processor: intel core i5 5200u broadwell
-Display Card: intel hd5500 + nvidia 940m
-Display: 1366 * 768 lcd
-Ram: 12 GB (8 + 4) 1600Mhz
-Sound: Realtek Alc233
-ssd1: windows 10, ssd2: mojave
-Ethernet: Realtek RTL8168 / 8111 PCI-E Gigabit
-Wifi: AzureWave AW-CE123H (14E4: 43B1) WIFI + BT card (replaced, the old mediatek card is sucks)
-
-Working things:
+System Properties (specs):  
+Processor: intel core i5 5200u broadwell  
+Display Card: intel hd5500 + nvidia 940m  
+Display: 1366 * 768 lcd  
+Ram: 12 GB (8 + 4) 1600Mhz  
+Sound: Realtek Alc233  
+ssd1: windows 10, ssd2: mojave  
+Ethernet: Realtek RTL8168 / 8111 PCI-E Gigabit  
+Wifi: AzureWave AW-CE123H (14E4: 43B1) WIFI + BT card (replaced, the old mediatek card is sucks)  
+  
+Working things:  
 Graphics HD5500 IGPU  
 Realtek alc233 sound  
 --- Built-in speaker and microphone is working, there is static noise / squeal at headphone output  
@@ -39,8 +39,8 @@ iCloud, Facetime, iMessege, iTunes
 Non-working (not working):  
 Nvidia 940M (disabled)  
 Realtek usb2.0 crw card reader  
- 
- 
+   
+   
 sources (google it):  
 ASUS X555LB-NS51 "HacBook Pro" - Show your Hackintosh - osx86.net  
 [Guide] Patching LAPTOP DSDT/SSDTs | tonymacx86.com  
