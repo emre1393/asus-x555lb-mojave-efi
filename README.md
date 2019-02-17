@@ -6,7 +6,7 @@ english is not my native language, i explained everything at a turkish forum htt
 you can read that with google translate, you will understand the article. i updated something of setup in few weeks later. lilu and its addons are used in this github version.  
 ie: the things that needs ssdt patch are working with whatevergreen kext and intel framebuffer patcher config now. just 1 kext (weg) solves a lot of problem.  
 
-i have used rehabman's clover fork. it is outdated but works fine.  
+i have used rehabman's clover fork. it is outdated but works fine. all kexts are in /e/c/k/other folder, installing them to s/l/e or l/e is not required.  
 
 Sistem Özellikleri (specs) :  
 İşlemci: intel core i5 5200u broadwell  
