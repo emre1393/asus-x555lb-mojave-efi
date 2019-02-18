@@ -1,5 +1,5 @@
 # Asus X555LB hackintosh setup for mac os mojave
-hackintosh efi for asus x555lb, it have dsdt patch and kexts and clover config.  
+hackintosh efi for asus x555lb, it has dsdt patch and kexts and clover config.  
 mac os 14.3 mojave works nice with this files. i got help from hackintosh forums and great peoples.  
 
 english is not my native language, i explained everything at a turkish forum https://osxinfo.net/konu/basarili-kurulum-asus-k555lb-x555lb-macos-mojave.6197/
