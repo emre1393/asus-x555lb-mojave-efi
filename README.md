@@ -2,7 +2,7 @@
 Hackintosh efi for asus x555lb, it has dsdt patch and kexts and clover config.  
 macOS 14.3 Mojave runs well with these configurations. I got some help on hackintosh forums and from great people.
 
-I explained everything on a Turkish forum since Turkish is my main language:  (That thread can be found here)[https://osxinfo.net/konu/basarili-kurulum-asus-k555lb-x555lb-macos-mojave.6197/]
+I explained everything on a Turkish forum since Turkish is my main language:  [That thread can be found here](https://osxinfo.net/konu/basarili-kurulum-asus-k555lb-x555lb-macos-mojave.6197/)
 It must be easy to understand that Turkish thread by just translating it through Google Translate. I updated some of the settings a few weeks ago. lilu and its addons are included on this GitHub version.
 Stuff requiring ssdt patch works with whatevergreen kext and intel framebuffer patcher config now. Only 1 kext (weg) solves a lot of problem.  
 
